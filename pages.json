@@ -1,0 +1,70 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/business/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/community/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		}
+	],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "black",
+		"backgroundColor": "#fff",
+		"color": "#cfcfce",
+		"selectedColor": "#FFA45C",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/unSelectHome.png",
+				"selectedIconPath": "static/tabbar/selectHome.png",
+				"text": "首页"
+			}, {
+				"pagePath": "pages/business/index",
+				"iconPath": "static/tabbar/unSelectBusiness.png",
+				"selectedIconPath": "static/tabbar/selectBusiness.png",
+				"text": "商圈"
+			},
+			{
+				"pagePath": "pages/community/index",
+				"iconPath": "static/tabbar/unSelectCommunity.png",
+				"selectedIconPath": "static/tabbar/selectCommunity.png",
+				"text": "社区"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"iconPath": "static/tabbar/unSelectMine.png",
+				"selectedIconPath": "static/tabbar/selectMine.png",
+				"text": "我的"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}
