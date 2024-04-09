@@ -44,16 +44,16 @@
 ### 部分截图
 
 
-<img src="https://resource.leapy.cn/202403/19/d8983dffac6ce2c6a7e1ae56ad459b88.png " width="100%" /></br></br>
+<img src="https://resource.leapy.cn/202403/19/d8983dffac6ce2c6a7e1ae56ad459b88.png" width="100%" /></br></br>
 
 </br></br>
 
-<img src="https://resource.leapy.cn/202403/19/19fc51f5c012462759e820f08ed427f6.png " width="100%" />
+<img src="https://resource.leapy.cn/202403/19/19fc51f5c012462759e820f08ed427f6.png" width="100%" />
 
 </br></br>
 
 </br></br>
-<img src="https://resource.leapy.cn/202403/19/b854fb22c0ab623532696554f489fa57.png " width="100%" />
+<img src="https://resource.leapy.cn/202403/19/b854fb22c0ab623532696554f489fa57.png" width="100%" />
 
 
 
@@ -83,7 +83,7 @@
 > * 合伙人管理，商户管理，店码管理，广告管理，设备管理，账号管理，部门管理，应用管理，通知公告，运费模板，营销卡券管理，订单管理，房源管理，财务管理，供应商管理，小区管理，员工管理，分佣管理等等，具体想了解详情可以联系作者。
 > <img src="https://resource.leapy.cn/202403/19/2e0696927c66ef08e648b3b2402b2191.png" width="100%" />
 > *  <img src="https://resource.leapy.cn/202403/19/3dc6a618491f374f07499b61278f7345.png" width="100%" />
-> *  <img src="https://resource.leapy.cn/202403/19/7f2366d3f0a88e31df3290497c3b6a71.png " width="100%" />
+> *  <img src="https://resource.leapy.cn/202403/19/7f2366d3f0a88e31df3290497c3b6a71.png" width="100%" />
 > *  <img src="https://resource.leapy.cn/202403/19/5b09f1f86064e2ab9f269d5b0417f700.png" width="100%" />
 > *  <img src="https://resource.leapy.cn/202403/19/e3bdc4c526b8e8911f4095d96f604fcd.png" width="100%" />
 > *  <img src="https://resource.leapy.cn/202403/19/7a6385e93ebc71d80cb4d6f5448ff1d8.png" width="100%" />
