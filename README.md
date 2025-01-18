@@ -6,8 +6,6 @@
 <div align="center">
 
 
-
-
 <p>基于uni-app、colorUi、uView，支持小程序、H5、Android和IOS，saas模式，专注于做物业管理开发，支持物业端、供应商端、小区端、员工端、用户端</p>
 ```
 🕙 项目已开发完成，现已投入使用中，需要的小伙伴可以联系我哦～
